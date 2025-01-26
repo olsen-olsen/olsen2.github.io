@@ -1,0 +1,2 @@
+* This is a second site's layout
+- Welcome to another layout
